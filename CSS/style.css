@@ -98,7 +98,7 @@ section {
   margin-right: 0.5rem;
 }
 section:nth-child(2n) {
-  background-color: grey;
+  background-color: rgb(223, 223, 223);
 }
 
 section:nth-child(2n + 1) {
@@ -258,7 +258,7 @@ section:nth-child(2n + 1) {
 
 .experience-company-name {
   margin: 5px 0 0;
-  color: #eb822d;
+  color: rgb(90, 101, 255);
   font-weight: 400;
   font-size: 1.2rem;
 }
@@ -266,14 +266,14 @@ section:nth-child(2n + 1) {
 .experience-duration {
   color: #9e9b9b;
   font-weight: 100;
-  color: grey;
+  color: rgb(110, 108, 248);
   font-size: 1rem;
 }
 
 .experience-description {
   font-size: 14px;
   padding: 2px;
-  color: grey;
+  color: rgb(2, 2, 2);
   line-height: 20px;
 }
 
