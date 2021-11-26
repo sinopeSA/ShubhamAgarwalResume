@@ -1,7 +1,7 @@
 # Resume
 A Detailed Portfolio
 
-My Proffessional lifecycle 
+My Professional lifecycle. 
 
 use  https://sinopesa.github.io/ShubhamAgarwalResume/Index.html
 <br/>
